@@ -1,2 +1,2 @@
 # CoIndStar
-implementation of ocinductive datatypes and interaction trees in FStar
+implementation of coinductive datatypes and interaction trees in FStar
